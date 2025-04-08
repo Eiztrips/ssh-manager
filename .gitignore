@@ -1,0 +1,12 @@
+/build/
+/scripts/
+/cmake-build-debug/
+/cmake-build-release/
+/.idea/
+/.vscode/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
